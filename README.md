@@ -9,7 +9,7 @@ Esta es una solucion a este desafio PPT-Off
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#-https://preeminent-squirrel-24c83e.netlify.app)
   - [Mi proceso](#miproceso)
-  - [Agradecimientos](#-https://github.com/MendiolaSergioluis)
+  - Agradecimientos](#-https://github.com/MendiolaSergioluis)
 
 
 ## Overview
