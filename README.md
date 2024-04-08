@@ -12,7 +12,7 @@ Esta es una solucion a este desafio PPT-Off
   - [Construido con](#JavaScript-HTML-CSS-TypeScript)
   - [Lo que aprendí](#Uso-de-TypeScript-LocalStorage-Manejo-de-eventos-Manejo-de-Estados)
   - [Desarrollo continuo](#Juego-Off-Line)
-  - [Recursos útiles](#Vite-Project)c
+  - [Recursos útiles](#Vite-Project)
   - [Autor](#https://github.com/dashboard)
   - [Agradecimientos](#https://github.com/MendiolaSergioluis)
 
