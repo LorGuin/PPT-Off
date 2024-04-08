@@ -54,12 +54,30 @@ En este desafio se fortalecion el uso de estados y metodos en JavaScript ademas 
 <h1>Piedra Papel ó Tijeras</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+:root {
+  font-family: "Odibee Sans", sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  font-style: normal;
+
+  color: #333333;
+  background-color: ghostwhite;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 ```
 ``js
-const orgulloDeEstoFunc = () => {
-  console.log('🎉')
-}
+setState(stateData: StateData): void {
+    if (supportStorage()) {
+      localStorage.setItem("PPT-OFF", JSON.stringify(stateData));
+    } else {
+      this.data = stateData;
+    }
+    this.listeners.forEach((callback: Function): void => {
+      callback(this.data);
+    });
+  },
 ```
