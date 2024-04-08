@@ -7,14 +7,9 @@ Esta es una solucion a este desafio PPT-Off
 - Resumen
   - [Desafio](#desafio)
   - [Captura de pantalla](#captura-de-pantalla)
-  - [Enlaces](#https://preeminent-squirrel-24c83e.netlify.app)
+  - [Enlaces](#-https://preeminent-squirrel-24c83e.netlify.app)
   - [Mi proceso](#miproceso)
-  - [Construido con](#JavaScript-HTML-CSS-TypeScript)
-  - [Lo que aprendí](#Uso-de-TypeScript-LocalStorage-Manejo-de-eventos-Manejo-de-Estados)
-  - [Desarrollo continuo](#Juego-Off-Line)
-  - [Recursos útiles](#Vite-Project)
-  - [Autor](#https://github.com/dashboard)
-  - [Agradecimientos](#https://github.com/MendiolaSergioluis)
+  - [Agradecimientos](#-https://github.com/MendiolaSergioluis)
 
 
 ## Overview
