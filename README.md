@@ -31,7 +31,7 @@ Los usuarios deben poder:
 
 ### Captura de pantalla
 
-![](C:\Users\usuario\OneDrive\Escritorio)
+![](./C:\Users\usuario\OneDrive\Escritorio)
 
 
 
