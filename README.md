@@ -6,8 +6,8 @@ Esta es una solucion a este desafio PPT-Off
 
 - Resumen
   - [Desafio](#desafio)
-  - Web: https://preeminent-squirrel-24c83e.netlify.app)
-  - Agradecimientos: https://github.com/MendiolaSergioluis)
+  - Web: https://preeminent-squirrel-24c83e.netlify.app
+  - Agradecimientos: https://github.com/MendiolaSergioluis
 
 
 ## Overview
