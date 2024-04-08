@@ -8,13 +8,13 @@ Esta es una solucion a este desafio PPT-Off
   - [Desafio](#desafio)
   - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#https://preeminent-squirrel-24c83e.netlify.app)
-- [Mi proceso](#mi proceso)
-  - [Construido con](#JavaScript, HTML, CSS, TypeScript)
-  - [Lo que aprendí](#Uso de TypeScript, LocalStorage, Manejo de eventos, Manejo de Estados)
-  - [Desarrollo continuo](#Juego Off-Line)
+  - [Mi proceso](#miproceso)
+  - [Construido con](#JavaScript-HTML-CSS-TypeScript)
+  - [Lo que aprendí](#Uso-de-TypeScript-LocalStorage-Manejo-de-eventos-Manejo-de-Estados)
+  - [Desarrollo continuo](#Juego-Off-Line)
   - [Recursos útiles](#Vite-Project)
-- [Autor](#Cristian Minni)
-- [Agradecimientos](#Agradez a mi amigo Sergio Luis)
+  - [Autor](#Cristian-Minni)
+  - [Agradecimientos](#Agradezco-a-mi-amigo-Sergio-Luis)
 
 
 ## Overview
@@ -31,7 +31,7 @@ Los usuarios deben poder:
 
 ### Captura de pantalla
 
-![](./screenshot.jpg)
+![](C:\Users\usuario\OneDrive\Escritorio)
 
 
 
