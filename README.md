@@ -6,10 +6,8 @@ Esta es una solucion a este desafio PPT-Off
 
 - Resumen
   - [Desafio](#desafio)
-  - [Captura de pantalla](#captura-de-pantalla)
-  - [Enlaces](#-https://preeminent-squirrel-24c83e.netlify.app)
-  - [Mi proceso](#miproceso)
-  - Agradecimientos](#-https://github.com/MendiolaSergioluis)
+  - https://preeminent-squirrel-24c83e.netlify.app)
+  - Agradecimientos #https://github.com/MendiolaSergioluis)
 
 
 ## Overview
