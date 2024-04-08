@@ -12,9 +12,9 @@ Esta es una solucion a este desafio PPT-Off
   - [Construido con](#JavaScript-HTML-CSS-TypeScript)
   - [Lo que aprendí](#Uso-de-TypeScript-LocalStorage-Manejo-de-eventos-Manejo-de-Estados)
   - [Desarrollo continuo](#Juego-Off-Line)
-  - [Recursos útiles](#Vite-Project)
-  - [Autor](#Cristian-Minni)
-  - [Agradecimientos](#Agradezco-a-mi-amigo-Sergio-Luis)
+  - [Recursos útiles](#Vite-Project)c
+  - [Autor](#https://github.com/dashboard)
+  - [Agradecimientos](#https://github.com/MendiolaSergioluis)
 
 
 ## Overview
@@ -31,7 +31,7 @@ Los usuarios deben poder:
 
 ### Captura de pantalla
 
-![](./C:\Users\usuario\OneDrive\Escritorio)
+![](../ScreenShot)
 
 
 
